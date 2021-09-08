@@ -27,11 +27,13 @@ textarea {
 
 .time-block {
   text-align: center;
-  border-radius: 15px;
-  display: flex;
-  padding: 30px;
-  margin: 0;
-  border: solid;
+  padding: 10px;
+  margin: 10px;
+  width: inherit;
+  justify-content: center;
+  align-self: flex-end;
+  font-weight: 400;
+  font-size: x-large;
 }
 
 .row {
@@ -67,9 +69,22 @@ textarea {
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
   color: white;
+  display:flex;
 }
 
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
+}
+.container {
+  display: inline-flex;
+  justify-content: flex-end;
+}
+
+
+.timeblock {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
 }
