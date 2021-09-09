@@ -11,6 +11,7 @@ textarea {
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+  
 }
 
 .jumbotron {
@@ -79,6 +80,8 @@ textarea {
 .container {
   display: inline-flex;
   justify-content: flex-end;
+  flex-direction: column;
+
 }
 
 
@@ -88,10 +91,16 @@ textarea {
   justify-content: center;
   padding: 5px;
 }
-.fas fa-save {
-  border: 5px;
-  padding: 5px;
-}
+
 #currentDay { 
   font-weight: 900;
 }
+.timeblock1 {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  background: transparent;
+  padding: 10px;
+  font-size: x-large;
+}
+
