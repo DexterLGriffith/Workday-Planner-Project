@@ -88,3 +88,10 @@ textarea {
   justify-content: center;
   padding: 5px;
 }
+.fas fa-save {
+  border: 5px;
+  padding: 5px;
+}
+#currentDay { 
+  font-weight: 900;
+}
