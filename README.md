@@ -21,7 +21,7 @@ The developer was tasked to create a workday planner which was separated by an h
 
 # Installation 
 
-    1. Download the f iles from the repository, open the index.html, style.css and script.js files within that folder. Enter in assigned appointments where needed and save them. 
+    1. Download the files from the repository, open the index.html, style.css and script.js files within that folder. Enter in assigned appointments where needed and save them. 
 
 # Links 
 
