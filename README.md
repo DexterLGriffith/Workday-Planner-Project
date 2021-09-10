@@ -8,7 +8,16 @@ The developer was tasked to create a workday planner which was separated by an h
 
 #  Tasks Completed 
 
-    
+    1. Pulled files from computer and created separate folder under the homework file, with all appropriate folders in it. 
+    2. Added a container under the body section, under the jumbotron that was already on the page. 
+    3. Used understanding of CSS to format the container with appropriate rows and columns, then centered it on the page to achieved desired look. 
+    4. Created a basic script.js file, and linked it to the Html file in the appropriate location. 
+    5. Used bootstrap to create appropriate rows, and formatted it to this specific task. 
+    6. Added a save icon in the last slot, and created a button to save using font awesome. 
+    7. Created a timestamp using moment at the top of the page under the title of the jumbotron. 
+    8. Created a local storage for all inputs within the appointments section, that the user entered. 
+    9. Added if statement to adjust background color based on timeslot entered by user and current time, for current, past and future times. 
+    10. Created onclick event to allow user to save entered text from planner. 
 
 # Installation 
 
@@ -35,3 +44,4 @@ Dexter Griffith
 7. https://github.com/DexterLGriffith/SMU-class-files/tree/main/05-Third-Party-APIs/01-Activities/25-Ins_Moment-Format
 8. https://github.com/DexterLGriffith/SMU-class-files/tree/main/05-Third-Party-APIs/01-Activities/03-Ins_Click-Events
 9. https://github.com/DexterLGriffith/SMU-class-files/tree/main/03-JavaScript/01-Activities/19-Ins_Methods
+10. https://fontawesome.com/v5.15/icons/save?style=solid
